@@ -1,0 +1,11 @@
+@import "../../variables.scss";
+
+.box {
+  width: $medium-width;
+  height: $medium-height;
+  border-radius: $medium-border-radius;
+  box-shadow:  2px 2px 10px #423b3b;
+  &.frosted {
+    backdrop-filter: blur(2px);
+  }
+}
