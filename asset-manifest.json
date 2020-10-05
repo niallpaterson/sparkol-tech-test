@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.e06a9bfb.chunk.css",
-    "main.js": "/static/js/main.fb4cdf9a.chunk.js",
-    "main.js.map": "/static/js/main.fb4cdf9a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f8f1e97f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f8f1e97f.js.map",
-    "static/js/2.80547ffa.chunk.js": "/static/js/2.80547ffa.chunk.js",
-    "static/js/2.80547ffa.chunk.js.map": "/static/js/2.80547ffa.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.9990c402432127ec65604bbca5bbde7e.js": "/precache-manifest.9990c402432127ec65604bbca5bbde7e.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.e06a9bfb.chunk.css.map": "/static/css/main.e06a9bfb.chunk.css.map",
-    "static/js/2.80547ffa.chunk.js.LICENSE.txt": "/static/js/2.80547ffa.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/wave-background.77be8a9c.svg"
+    "main.css": "/sparkol-tech-test/static/css/main.b0c5f2bb.chunk.css",
+    "main.js": "/sparkol-tech-test/static/js/main.11aa6b70.chunk.js",
+    "main.js.map": "/sparkol-tech-test/static/js/main.11aa6b70.chunk.js.map",
+    "runtime-main.js": "/sparkol-tech-test/static/js/runtime-main.97e0cba7.js",
+    "runtime-main.js.map": "/sparkol-tech-test/static/js/runtime-main.97e0cba7.js.map",
+    "static/js/2.80547ffa.chunk.js": "/sparkol-tech-test/static/js/2.80547ffa.chunk.js",
+    "static/js/2.80547ffa.chunk.js.map": "/sparkol-tech-test/static/js/2.80547ffa.chunk.js.map",
+    "index.html": "/sparkol-tech-test/index.html",
+    "precache-manifest.0c9073f3e03c487e3b08237af37eae89.js": "/sparkol-tech-test/precache-manifest.0c9073f3e03c487e3b08237af37eae89.js",
+    "service-worker.js": "/sparkol-tech-test/service-worker.js",
+    "static/css/main.b0c5f2bb.chunk.css.map": "/sparkol-tech-test/static/css/main.b0c5f2bb.chunk.css.map",
+    "static/js/2.80547ffa.chunk.js.LICENSE.txt": "/sparkol-tech-test/static/js/2.80547ffa.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/sparkol-tech-test/static/media/wave-background.77be8a9c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f8f1e97f.js",
+    "static/js/runtime-main.97e0cba7.js",
     "static/js/2.80547ffa.chunk.js",
-    "static/css/main.e06a9bfb.chunk.css",
-    "static/js/main.fb4cdf9a.chunk.js"
+    "static/css/main.b0c5f2bb.chunk.css",
+    "static/js/main.11aa6b70.chunk.js"
   ]
 }
