@@ -1,6 +1,6 @@
 # Authentication tech test
 
-The react is built with React. To use the app the authentication API must be run locally. If you do not already have the API, clone down the repository:
+The app is built with React. To use the app the authentication API must be run locally. If you do not already have the API, clone down the repository:
 
 ````shell
 git clone https://github.com/Sparkol/interview-authentication-service.git
