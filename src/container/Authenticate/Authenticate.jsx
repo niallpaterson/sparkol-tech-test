@@ -29,7 +29,7 @@ const Authenticate = () => {
       body: JSON.stringify({ username, password }),  
     })
     .then((res) => res.status === 200 ? login(res) : alert('Incorrect Username or Password 😞'))
-    .catch(error => console.log(error))
+    .catch(error => alert(error))
     .finally(resetCredentials);
    };
 
