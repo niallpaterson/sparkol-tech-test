@@ -28,7 +28,7 @@ const Authenticate = () => {
       headers: {'Content-Type': 'application/json'},
       body: JSON.stringify({ username, password }),  
     })
-    .then((res) => res.status === 200 ? login(res) : alert('Incorrect Password 😞.'))
+    .then((res) => res.status === 200 ? login(res) : alert('Incorrect Username or Password 😞'))
     .catch(error => console.log(error))
     .finally(resetCredentials);
    };
