@@ -1,0 +1,16 @@
+@import "../../variables.scss";
+
+.login, .logout {
+  padding: $small-padding;
+  width: $small-width;
+  margin: $small-margin;
+  border: 2px transparent solid;
+  border-radius: $small-border-radius;
+  box-sizing: border-box;
+  color: $black;
+  background-color: $white;
+  &:hover {
+    background-color: $black;
+    color: $white;
+  }
+}
