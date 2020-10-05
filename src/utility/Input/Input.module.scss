@@ -1,0 +1,12 @@
+@import "../../variables.scss";
+
+.login {
+  box-sizing: border-box;
+  border-color: $white;
+  border: 2px transparent solid;
+  border-radius: $small-border-radius;
+  width: $small-width;
+  padding: $small-padding;
+  margin: $small-margin;
+  color: $black;
+}
